@@ -1,6 +1,6 @@
 # SSServiceProvider
 
-This is the sampe app for declarative service client architecture. You can find detailed blog post in my medium page. [Go to related medium post.] (https://medium.com/@serhatsezer/tiny-alamofire-wrapper-serviceprovider-daf08dd8952)
+This is the sampe app for declarative service client architecture. You can find detailed blog post in my medium page. (https://medium.com/@serhatsezer/tiny-alamofire-wrapper-serviceprovider-daf08dd8952 "Go to related medium post.")
 
 ## Usage
 Just declare your end point conforming `SSRequestRepresentable` protocol and define your endpoints along with request body or request parameters.
